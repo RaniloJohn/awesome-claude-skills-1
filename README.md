@@ -109,6 +109,10 @@ Skills for working with complex file formats:
   - [Blog post about its development](https://blog.fsck.com/2025/10/23/naming-claude-plugins/)
   - Install from `superpowers-marketplace` plugin
 
+- **[RaniloJohn/claude-blue](https://github.com/RaniloJohn/claude-blue)** - Blue-team skills library with 186 defensive security skills across 32 categories: SOC triage, detection engineering, DFIR, threat hunting, incident response, and hardening
+  - Detection content in Sigma, KQL, SPL, YARA, and Suricata, plus SIEM/EDR skills (Sentinel, Splunk, Elastic, Wazuh, Defender XDR, CrowdStrike)
+  - Router skill (`claude-blue`) picks the right specialist for a task; defensive counterpart to [SnailSploit/claude-red](https://github.com/SnailSploit/claude-red)
+  - Installation: `git clone https://github.com/RaniloJohn/claude-blue && ./install.sh`
 
 ### Individual Skills
 
